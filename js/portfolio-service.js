@@ -10,7 +10,7 @@ var gProjects = [
         publishedAt: 1199145600,
         labels: ["B2B", "field services software", "messages", "reports", "call recording"],
     }
-    ,
+    , 
     {
         id: "minesweeper",
         name: "Minesweeper",
